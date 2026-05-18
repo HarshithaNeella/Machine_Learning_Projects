@@ -144,9 +144,3 @@ Machine_Learning_Projects/
 - Model Explainability
 - API Integration
 
----
-
-# 👩‍💻 Author
-
-**Harshitha Neella**  
-Aspiring AI & Machine Learning Engineer
