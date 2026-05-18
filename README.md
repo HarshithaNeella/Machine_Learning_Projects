@@ -19,7 +19,7 @@ The projects focus on solving real-world problems using:
 Predicts air quality levels using environmental and pollution-related parameters.
 
 ### 🔧 Concepts Used
-- Regression Models
+- Classification Models
 - Data Cleaning
 - Feature Scaling
 - EDA & Visualization
